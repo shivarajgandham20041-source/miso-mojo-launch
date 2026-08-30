@@ -62,7 +62,7 @@ export const branches: Branch[] = [
   },
 ];
 
-export const primaryBranch = branches[0];
+export const primaryBranch = branches[0]!;
 
 export function getBranch(slug: string): Branch | undefined {
   return branches.find((b) => b.slug === slug);
