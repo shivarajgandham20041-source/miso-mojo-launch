@@ -56,9 +56,61 @@ export const branches: Branch[] = [
     takeaway: true,
     image: interiorImg,
     imageAlt:
-      "Warmly lit Japanese ramen counter with red paper lanterns at Miso Mojo",
+      "Warmly lit Japanese ramen counter with red paper lanterns at Miso Mojo Moosapet",
     seoIntro:
-      "Miso Mojo Moosapet is our ramen counter inside IDL Lake Food Courts, Habeeb Nagar — a short hop from Kukatpally, Balanagar and the Moosapet metro. Come in for devil spicy ramen, Korean fried chicken, corndogs, rice bowls and sushi rolls, or take it away.",
+      "Miso Mojo Moosapet is our ramen counter inside IDL Lake Food Courts, Habeeb Nagar — a short hop from Kukatpally, Balanagar and the Moosapet metro.",
+  },
+  {
+    slug: "dlf-gachibowli",
+    name: "Miso Mojo — DLF Cyber City",
+    areaLabel: "DLF Gachibowli, Hyderabad",
+    addressLines: ["Food Street, DLF Cyber City", "Gachibowli"],
+    locality: "Gachibowli",
+    city: "Hyderabad",
+    state: "Telangana",
+    postalCode: "500032",
+    plusCode: "FX38+2M Hyderabad, Telangana",
+    latitude: null,
+    longitude: null,
+    phone: null,
+    whatsapp: null,
+    openingHours: null,
+    googleMapsUrl:
+      "https://www.google.com/maps/search/?api=1&query=Miso+Mojo+DLF+Cyber+City+Gachibowli+Hyderabad",
+    orderingUrl: null,
+    dineIn: true,
+    takeaway: true,
+    image: interiorImg,
+    imageAlt:
+      "Modern Japanese noodle hub at DLF Gachibowli Food Street",
+    seoIntro:
+      "Serving techies and foodies at DLF Gachibowli Food Street — hot Japanese ramen, sushi rolls, & crunchy Korean street snacks.",
+  },
+  {
+    slug: "vijayawada",
+    name: "Miso Mojo — Benz Circle Food Hub",
+    areaLabel: "Benz Circle, Vijayawada",
+    addressLines: ["Benz Circle Food Court", "MG Road"],
+    locality: "Benz Circle",
+    city: "Vijayawada",
+    state: "Andhra Pradesh",
+    postalCode: "520010",
+    plusCode: "F922+8W Vijayawada, AP",
+    latitude: null,
+    longitude: null,
+    phone: null,
+    whatsapp: null,
+    openingHours: null,
+    googleMapsUrl:
+      "https://www.google.com/maps/search/?api=1&query=Miso+Mojo+Benz+Circle+Vijayawada",
+    orderingUrl: null,
+    dineIn: true,
+    takeaway: true,
+    image: interiorImg,
+    imageAlt:
+      "Vibrant Miso Mojo ramen container kiosk at Vijayawada Benz Circle",
+    seoIntro:
+      "Bringing authentic Japanese ramen, bao buns & boba teas to Benz Circle, Vijayawada.",
   },
 ];
 
